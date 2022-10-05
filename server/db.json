@@ -1,0 +1,53 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "name": "Arman",
+      "password": "password"
+    }
+  ],
+  "contacts-list": [
+    {
+      "id": 5,
+      "name": "qqqq",
+      "surname": "Surnames",
+      "email": "test@gmail.coasm",
+      "city": "csitys"
+    },
+    {
+      "id": 6,
+      "name": "Arman",
+      "surname": "Avetikyan",
+      "email": "test2@gmail.com",
+      "city": "Yerevan"
+    },
+    {
+      "id": 7,
+      "name": "Ashley",
+      "surname": "Cole",
+      "email": "Cole@gmail.com",
+      "city": "New York"
+    },
+    {
+      "id": 8,
+      "name": "Roberto",
+      "surname": "Hernandez",
+      "email": "hernandez@gmail.com",
+      "city": "Brazil"
+    },
+    {
+      "id": 9,
+      "name": "Alica",
+      "surname": "keys",
+      "email": "Alica@gmail.com",
+      "city": "New York"
+    },
+    {
+      "id": 10,
+      "name": "Name",
+      "surname": "Surname",
+      "email": "test@gmail.com",
+      "city": "city"
+    }
+  ]
+}
